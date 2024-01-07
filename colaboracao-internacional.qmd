@@ -1,0 +1,22 @@
+
+# Colaboração internacional
+
+A colaboração desenvolvida pelo proponente é expressa em coautorias de artigos, nos últimos 3 anos foram publicados artigos com 26 coautores, sendo 12 colaboradores de universidades estrangeiras. Como destaque da colaboração internacional estão listados 3 trabalhos:
+
+- [Relative Deprivation and Hey and Lambert’s Motivation: Mixed Methods Evidence from Rio de Janeiro](https://kclpure.kcl.ac.uk/portal/en/publications/relative-deprivation-and-hey-and-lamberts-motivation-mixed-method) 
+  - University of East Anglia
+  - University of York
+  - King’s College London
+
+{{< pdf docs-recurso/Esposito-1-2.pdf width=100% height=500 >}}
+
+- Acrocomia I: [Acrocomia spp.: Neglected crop, ballyhooed multipurpose palm or fit for the bioeconomy? A review.](https://link.springer.com/article/10.1007%2Fs13593-021-00729-5)
+- Acrocomia II: [A collaborative, systems approach for the development of biomass-based value webs: the case of the acrocomia palm.](https://doi.org/10.3390/land11101748) 
+  - Institute of Crop Science, University of Hohenheim
+  - Institute of Agricultural Sciences in the Tropics, University of Hohenheim
+  - Research Center for Global Food Security and Ecosystems, University of Hohenheim
+
+{{< pdf docs-recurso/Vargas-Carpintero2021.pdf width=100% height=500 >}}
+
+{{< pdf docs-recurso/Vargas-Carpintero2022.pdf width=100% height=500 >}}
+

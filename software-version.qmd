@@ -1,0 +1,75 @@
+
+# Versão de software {#software-version}
+
+- Análises realizadas com o `R` [@rcore]. 
+- Data: `r format(Sys.time(), "%Y %B %d")`
+- Hora: `r format(Sys.time(), "%X")`
+
+## R
+
+```{r}
+#| eval: true
+#| echo: true
+#| warning: false
+#| message: false
+
+devtools::session_info()$platform |> 
+  unlist() |> 
+  as.data.frame() |> 
+  tibble::rownames_to_column() |>
+  setNames(c("Setting", "Value")) |> 
+  knitr::kable(booktabs = T, align = "l") 
+
+```
+## Pacotes
+
+```{r}
+#| eval: true
+#| echo: true
+#| warning: false
+#| message: false
+
+library(dplyr)
+library(DT)
+library(fs)
+library(getLattes) 
+library(janitor) 
+library(lubridate) 
+library(purrr) 
+library(rio)
+library(tibble)
+library(tictoc) 
+library(tidyr)
+library(xml2)
+
+devtools::session_info()$packages |> 
+  as.data.frame() |> 
+  dplyr::filter(attached == TRUE) |> 
+  dplyr::select(loadedversion, date) |> 
+  tibble::rownames_to_column(var = "package_name") |>
+  knitr::kable(booktabs = T, align = "l") 
+```
+
+## Softwares externos
+
+```{r}
+#| eval: true
+#| echo: true
+#| warning: false
+#| message: false
+
+sessioninfo::session_info(info = "external") |>
+  unlist() |>
+  as.data.frame() |>
+  tibble::rownames_to_column() |>
+  setNames(c('external_software', 'version')) |>
+  dplyr::mutate(external_software = gsub('external.', '', external_software)) |>
+  knitr::kable(booktabs = T, align = "l") 
+```
+
+## Log
+
+```{r}
+sessioninfo::session_info(to_file = "session.log")
+```
+

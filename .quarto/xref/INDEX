@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "63d0f220"
+  },
+  "software-version.qmd": {
+    "software-version.html": "727cd2d9"
+  },
+  "references.qmd": {
+    "references.html": "64479995"
+  },
+  "gestao-cientifica.qmd": {
+    "gestao-cientifica.html": "b6ee2c02"
+  },
+  "colaboracao-internacional.qmd": {
+    "colaboracao-internacional.html": "096d79a3"
+  },
+  "orientacoes.qmd": {
+    "orientacoes.html": "d46af36d"
+  },
+  "parecer.qmd": {
+    "parecer.html": "29d90413"
+  },
+  "producao-cientifica.qmd": {
+    "producao-cientifica.html": "a2bc5fe7"
+  }
+}

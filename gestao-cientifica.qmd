@@ -1,0 +1,10 @@
+
+# Gestão científica
+
+O proponente foi editor da Revista de Estudos Socais - RES (ISSN 2358-7024) entre 2016 e 2021. No período em questão a revista saltou de Qualis B5 para A4, a visualização média dos artigos saltou de 30 para 700, a melhora de desempenho da revista foi fruto de: adoção do código DOI, disponibilização dos artigos científicos em formato HTML, forte divulgação da revista, e por fim, do rigor na seleção dos artigos. As melhorias implementadas foram alicerçadas no XXV CEC Curso de Editoração Científica em 2017 na FMVZ-USP, organizado pela ABEC - Associação Brasileira de Editores Científicos. A participação no congresso da ABEC foi financiada com recursos próprios, considerando o estágio de desenvolvimento da UFMT, a universidade empregadora do proponente. Os expressivos resultados obtidos na RES e a forte militância para melhorar a editoração científica na UFMT conduziu o proponente ser eleito como representante dos editores científicos no Portal dos Periódicos Eletrônicos da UFMT. A iniciativa culminou na criação do fórum de periódicos eletrônicos, um ambiente de compartilhamento de dúvidas e experiências na editoração científica.
+
+Considerando expressivos números obtidos e o esforço hercúleo para gerenciar uma revista científica sem apoio institucional, julgo o segundo parecer Ad Hoc inadequado.
+
+{{< pdf docs-recurso/abec-xxv-2017.pdf width=100% height=500 >}}
+
+{{< pdf docs-recurso/ufmt-representante-dos-editores.pdf width=100% height=500 >}}

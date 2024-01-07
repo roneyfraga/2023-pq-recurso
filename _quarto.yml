@@ -1,0 +1,57 @@
+project:
+  type: book
+  output-dir: _book
+  pre-render: prepare.R
+  preview:
+    port: 5555
+    browser: false
+
+book:
+  title: "[315376/2023-6] CNPq - Recurso"
+  author:
+    - name: Roney Fraga Souza
+      affiliations:
+        - name: Universidade Federal de Mato Grosso
+  date: "today"
+  date-format: iso 
+  search: true
+  reader-mode: true
+  repo-actions: [edit, issue]
+  # sharing: [twitter, facebook]
+  # twitter-card: true
+  # site-url: https:roneyfraga.com/cidados
+  # repo-url: https://github.com/roneyfraga/cidados
+
+  # page-footer:
+  #   left: |
+  #     Notas sobre Ciência de Dados, Análise de Dados e Programação.
+  #   right: |
+  #     Material construído com <a href="https://quarto.org/">Quarto</a>.
+
+  chapters:
+    - index.qmd
+    - producao-cientifica.qmd
+    - gestao-cientifica.qmd
+    - colaboracao-internacional.qmd
+    - orientacoes.qmd
+    - parecer.qmd
+    - software-version.qmd
+    - references.qmd
+
+lang: pt-BR
+bibliography: references.bib
+csl: apa.csl
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    toc-location: right
+    code-fold: true
+    code-line-numbers: true
+    author-meta: "Roney Fraga Souza"
+
+execute:
+  cache: true
+

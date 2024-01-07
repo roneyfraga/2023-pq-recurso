@@ -1,0 +1,223 @@
+1704474463419	geckodriver	INFO	Listening on 127.0.0.1:54800
+1704474463639	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/3r/d5vwh0_d2b5gmtg6w1m535100000gn/T/rust_mozprofileReKIZZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704474464262	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704474464489	Marionette	INFO	Listening on port 54816
+WebDriver BiDi listening on ws://127.0.0.1:54801
+Read port: 54816
+1704474464683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:54801/devtools/browser/73e60551-bc81-47e3-a411-4ee0ec433080
+JavaScript error: http://buscatextual.cnpq.br/buscatextual/js/ajax/ajaxtags.js, line 820: ReferenceError: Autocompleter is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+1704474494315	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+1704475083796	geckodriver	INFO	Listening on 127.0.0.1:55034
+1704475084307	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/3r/d5vwh0_d2b5gmtg6w1m535100000gn/T/rust_mozprofile3ZU7vs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704475084592	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704475084750	Marionette	INFO	Listening on port 55042
+WebDriver BiDi listening on ws://127.0.0.1:55035
+Read port: 55042
+1704475084907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:55035/devtools/browser/30a8375e-6dea-4aa7-a345-9c8ce5ee9a51
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+1704475114663	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1704475877205	geckodriver	INFO	Listening on 127.0.0.1:60887
+1704475877718	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/3r/d5vwh0_d2b5gmtg6w1m535100000gn/T/rust_mozprofileD6Q8YB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704475878175	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704475878370	Marionette	INFO	Listening on port 60895
+WebDriver BiDi listening on ws://127.0.0.1:60888
+Read port: 60895
+1704475878549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:60888/devtools/browser/8a769dd5-c3c1-4bba-b0ed-48307b32f7cd
+1704475909160	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+1704476098311	geckodriver	INFO	Listening on 127.0.0.1:60998
+1704476098833	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/3r/d5vwh0_d2b5gmtg6w1m535100000gn/T/rust_mozprofile6nYIWS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704476099065	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704476099219	Marionette	INFO	Listening on port 61004
+WebDriver BiDi listening on ws://127.0.0.1:60999
+Read port: 61004
+1704476099353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:60999/devtools/browser/a5ebe8bd-edc8-4236-9210-3210eff2a29a
+1704476129274	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1704476181334	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://whatismyipaddress.com/wp-content/plugins/svg-support/js/min/svgs-inline-min.js?ver=1.0.0, line 1: ReferenceError: frontSanitizationEnabled is not defined
+JavaScript error: https://whatismyipaddress.com/wp-content/plugins/svg-support/js/min/svgs-inline-min.js?ver=1.0.0, line 1: ReferenceError: frontSanitizationEnabled is not defined
+JavaScript error: https://whatismyipaddress.com/wp-content/plugins/svg-support/js/min/svgs-inline-min.js?ver=1.0.0, line 1: ReferenceError: frontSanitizationEnabled is not defined
+console.error: ({})
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-DHL4YQEJFS&l=dataLayer&cx=c, line 167: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-DHL4YQEJFS&l=dataLayer&cx=c:167:17
+wA@https://www.googletagmanager.com/gtag/js?id=G-DHL4YQEJFS&l=dataLayer&cx=c:496:134
+xA/<@https://www.googletagmanager.com/gtag/js?id=G-DHL4YQEJFS&l=dataLayer&cx=c:496:111
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval line 88 > eval line 1 > eval line 1 > eval, line 1: Script terminated by timeout at:
+O@https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval line 88 > eval line 1 > eval line 1 > eval:1:24
+@https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval line 88 > eval line 1 > eval line 1 > eval:1:104
+NA@https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval line 88 > eval line 1 > eval line 1 > eval:1:221
+A8@https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval line 88 > eval line 1 > eval line 1 > eval:1:42
+@https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval:88:37563
+tP@https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval:88:17049
+G@https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval:88:3744
+a@https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval:88:13283
+G/<@https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval:88:3809
+$J</<@https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval:88:35215
+
+JavaScript error: http://buscatextual.cnpq.br/buscatextual/js/ajax/ajaxtags.js, line 820: ReferenceError: Autocompleter is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+JavaScript error: http://buscatextual.cnpq.br/buscatextual/js/ajax/ajaxtags.js, line 820: ReferenceError: Autocompleter is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+JavaScript error: http://buscatextual.cnpq.br/buscatextual/js/ajax/ajaxtags.js, line 820: ReferenceError: Autocompleter is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+JavaScript error: http://buscatextual.cnpq.br/buscatextual/js/ajax/ajaxtags.js, line 820: ReferenceError: Autocompleter is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+JavaScript error: http://buscatextual.cnpq.br/buscatextual/js/ajax/ajaxtags.js, line 820: ReferenceError: Autocompleter is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+1704491222608	geckodriver	INFO	Listening on 127.0.0.1:64586
+1704491223124	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/3r/d5vwh0_d2b5gmtg6w1m535100000gn/T/rust_mozprofilebBizdR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704491223544	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704491223742	Marionette	INFO	Listening on port 64593
+WebDriver BiDi listening on ws://127.0.0.1:64587
+Read port: 64593
+1704491223920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:64587/devtools/browser/95895fe0-a2eb-4898-a6e0-27aa60583718
+1704491253879	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+1704491505061	geckodriver	INFO	Listening on 127.0.0.1:64703
+1704491505584	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/3r/d5vwh0_d2b5gmtg6w1m535100000gn/T/rust_mozprofileR12H2D"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704491505819	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1704491505986	Marionette	INFO	Listening on port 64710
+WebDriver BiDi listening on ws://127.0.0.1:64704
+Read port: 64710
+1704491506133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:64704/devtools/browser/9eae97a9-7f43-4531-a510-9a69842ea7e1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+1704491535865	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://buscatextual.cnpq.br."
+1704492225222	Marionette	INFO	Stopped listening on port 60895
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+1704492229457	Marionette	INFO	Stopped listening on port 61004
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1704492232472	Marionette	INFO	Stopped listening on port 64593
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+1704492235502	Marionette	INFO	Stopped listening on port 64710

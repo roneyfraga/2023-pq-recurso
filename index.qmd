@@ -1,0 +1,52 @@
+
+# Recurso
+
+Prezada Comissão de Avaliação de Bolsas,
+
+Eu, Roney Fraga Souza, venho por meio deste documento apresentar recurso em relação ao resultado do edital de bolsas, referente à Chamada CNPq No 09/2023 Bolsas de Produtividade 315376/2023-6, no qual fui informado de que minha produção não foi considerada suficientemente produtiva para ser agraciado com a bolsa.
+
+Primeiramente, gostaria de expressar meu agradecimento pela oportunidade de participar do processo seletivo e pela transparência demonstrada pela comissão ao fornecer os resultados. Contudo, após uma análise minuciosa dos critérios de avaliação e dos resultados apresentados, sinto a necessidade de apresentar informações adicionais que possam contribuir para uma reavaliação justa de minha candidatura.
+
+Ao analisar os parâmetros utilizados para avaliação, percebo que a conclusão sobre minha produtividade parece não refletir de maneira precisa o conjunto de minha produção quanto a: produção científica, gestão científica, colaborações acadêmicas, e orientações. A versão expandida do recurso, que inclui a análise da produção científica extraída via currículo Lattes dos 239 bolsistas de produtividade, e demais documentos comprobatórios estão disponíveis em: <https://roneyfraga.com/projects/2024-pq-recurso>.
+
+Produção científica
+
+A produção científica do proponente se compara a produção dos bolsistas de produtividade mais produtivos. Para sustentar tal afirmação, os currículos Lattes dos 239 bolsistas de produtividade da área Economia foram analisados via código do software `R` e pacote `getLattes`, de autoria do proponente. O período de análise foi de 2021 a 2023.
+
+Quanto aos Artigos Publicados:
+  - Qualis A1 a A4: o proponente está os 90% autores mais produtivos.
+  - Web of Science: o proponente está 70% autores mais produtivos.
+  - Scopus: o proponente está 60% autores mais produtivos.
+  - Quantidade: o proponente está entre os 60% a 70% autores mais produtivos.
+
+Quanto aos Livros Publicados:
+  - Quantidade: o proponente entre os 90% autores mais produtivos.
+
+Quanto aos Pós-Graduação em Economia (via `StelaExperta`):
+  - o proponente obteve, na média, 211 pontos por ano entre 2021 e 2023, superior à média dos docentes dos programas de pós-graduação em economia, considerando todos os extratos, inclusive os programas Qualis 7.
+
+Orientações
+
+A parecerista realizou a avaliação com os dados disponibilizados, mantendo-se alinhado ao processo de avaliação. O candidato equivocou-se em não atualizar as orientações no currículo Lattes. Com o currículo devidamente atualizado, destaco que o proponente orientou 19 alunos na graduação, e 3 co-orientações no mestrado (uma na UFMT, uma na Unicamp, e uma na UFPB). Ainda em desenvolvimento são 3 orientações no mestrado em economia da UFMT e 4 monografias na mesma universidade.
+
+Colaboração internacional
+
+A colaboração desenvolvida pelo proponente é expressa em coautorias de artigos, nos últimos 3 anos foram publicados artigos com 26 coautores, sendo 12 colaboradores de 4 universidades estrangeiras. 
+
+Gestão científica
+
+O proponente:
+- foi editor da Revista de Estudos Socais entre 2016 e 2021, quando a revista saltou de Qualis B5 para A4;
+- participou com recursos próprios do XXV CEC 2017 na FMVZ-USP, organizado pela ABEC;
+- a visualização média dos artigos saltou de 30 para 700;
+- foi eleito representante dos editores científicos junto a UFMT.
+
+Considerando expressivos números obtidos e o esforço hercúleo para gerenciar uma revista científica sem apoio institucional, julgo o segundo parecer Ad Hoc inadequado.
+
+Acredito que a revisão desses documentos adicionais irá fornecer uma visão mais contextualizada de minha contribuição para a pesquisa e para a comunidade acadêmica. Ressalto ainda que estou à disposição para fornecer informações adicionais ou participar de uma entrevista, caso necessário.
+
+Reforço que a versão expandida do relatório está disponível em: <https://roneyfraga.com/projects/2024-pq-recurso>.
+
+Atenciosamente,
+
+Roney Fraga Souza

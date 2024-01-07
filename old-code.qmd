@@ -1,0 +1,86 @@
+
+```{r}
+
+dplyr::bind_rows(artigos_publicados, artigos_aceitos) |>
+    dplyr::rename(revista = titulo_do_periodico_ou_revista) |>
+    dplyr::rename(titulo = titulo_do_artigo) |>
+    dplyr::rename(ano = ano_do_artigo) |>
+    tratamento_issn(issn) |>
+    tratamento_nome_revista(revista) |>
+    dplyr::select(id, autores) |>
+    tidyr::unnest() |>
+    dplyr::count(nome_para_citacao, sort = T) |>
+    print(n = Inf)
+```
+
+
+<!--
+
+## Artigos por nível
+
+```{r}
+#| eval: true
+#| echo: true
+#| warning: false
+
+artigos_final |>
+  dplyr::select(- total) |> 
+  dplyr::left_join(autor_pontos, by = join_by(nome_completo, id)) |>
+  dplyr::left_join(pq_economia |> dplyr::select(- nome), by = 'id') |>
+  dplyr::filter(!is.na(nivel)) |>
+  dplyr::group_by(nivel) |>
+  dplyr::summarise(wos = round(mean(wos, na.rm = T), 1), 
+                   scopus = round(mean(scopus, na.rm = T), 1),
+                   As = round(mean(As, na.rm = T), 1),
+                   pontos = round(mean(pontos, na.rm = T), 1),
+                   artigos = round(mean(artigos, na.rm = T), 1)) |>
+  dplyr::relocate(artigos, .after = nivel) |> 
+  DT::datatable(caption = 'PQ Economia - Artigos por nível', rownames = TRUE, filter = 'bottom', extensions = 'Buttons', escape = FALSE, options = list(dom = 'Blfrtip', pageLength = 10)) 
+```
+
+-->
+
+<!--
+
+## Livros por nível
+
+- 1 = 100%
+
+```{r}
+#| eval: true
+#| echo: true
+#| warning: false
+
+rio::import('rawfiles/livros-publicados.rds') |>
+  tibble::as_tibble() |>
+  dplyr::group_by(id) |>
+  dplyr::distinct(.keep_all = TRUE) |>
+  dplyr::count(sort = T, name = 'livros') |>
+  dplyr::ungroup() |>
+  dplyr::full_join(pq_economia, by = 'id') |>
+  dplyr::filter(!is.na(nome)) ->
+  livros
+
+livros |>
+  dplyr::mutate(publicou_livro = ifelse(is.na(livros), 'Nao', 'Sim')) |>
+  dplyr::count(nivel, publicou_livro, sort = F, name = 'publicou') |>
+  tidyr::pivot_wider(names_from = nivel, values_from = publicou) |>
+  dplyr::mutate(`PQ-1A` = round(`PQ-1A` / sum(`PQ-1A`), 1)) |>
+  dplyr::mutate(`PQ-1B` = round(`PQ-1B` / sum(`PQ-1B`), 1)) |>
+  dplyr::mutate(`PQ-1C` = round(`PQ-1C` / sum(`PQ-1C`), 1)) |>
+  dplyr::mutate(`PQ-1D` = round(`PQ-1D` / sum(`PQ-1D`), 1)) |>
+  dplyr::mutate(`PQ-2` = round(`PQ-2` / sum(`PQ-2`), 1)) |>
+  dplyr::mutate(`PQ-SR` = round(`PQ-SR` / sum(`PQ-SR`, na.rm = T), 1)) -> 
+  df
+
+df_t <- data.table::transpose(as.data.frame(df))
+df_t <- df_t[-1, ]
+df_t$nivel <- colnames(df)[-1]
+colnames(df_t) <- c('Nao_Publicou', 'Publicou_Livro', 'Nivel')
+
+df_t |>
+  dplyr::relocate(Nivel) |>
+  DT::datatable(caption = 'PQ Economia - Livros por nível', rownames = TRUE, filter = 'bottom', extensions = 'Buttons', escape = FALSE, options = list(dom = 'Blfrtip', pageLength = 10)) 
+```
+
+-->
