@@ -1,5 +1,5 @@
 
-Recurso referente à Chamada CNPq No 09/2023 Bolsas de Produtividade 315376/2023-6.
+Recurso referente à Chamada CNPq No 09/2023 Bolsas de Produtividade `315376/2023-6`.
 
 Versão `html`: <http://roneyfraga.com/projects/2024-pq-recurso>
 
