@@ -1,7 +1,7 @@
 
 Recurso referente à Chamada CNPq No 09/2023 Bolsas de Produtividade 315376/2023-6.
 
-Versão `html` em: <http://roneyfraga.com/projects/2024-pq-recurso>
+Versão `html`: <http://roneyfraga.com/projects/2024-pq-recurso>
 
 A produção científica do proponente se compara a produção dos bolsistas de produtividade mais produtivos. Para sustentar tal afirmação, os currículos Lattes dos 239 bolsistas de produtividade da área Economia foram analisados via código do software `R` e pacote `getLattes`, de autoria do proponente. O período de análise foi de 2021 a 2023, respeitando o período de avaliação dos programas de pós-graduação.
 
