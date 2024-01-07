@@ -19,8 +19,8 @@ book:
   repo-actions: [edit, issue]
   # sharing: [twitter, facebook]
   # twitter-card: true
-  # site-url: https:roneyfraga.com/cidados
-  # repo-url: https://github.com/roneyfraga/cidados
+  site-url: https://roneyfraga.com/projects/2024-pq-recurso/
+  repo-url: https://github.com/roneyfraga/2023-pq-recurso
 
   # page-footer:
   #   left: |
