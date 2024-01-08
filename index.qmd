@@ -1,9 +1,11 @@
 
 # Recurso
 
+7 de janeiro de 2024.
+
 Prezada Comissão de Avaliação de Bolsas,
 
-Eu, Roney Fraga Souza, venho por meio deste documento apresentar recurso em relação ao resultado do edital de bolsas, referente à Chamada CNPq No 09/2023 Bolsas de Produtividade 315376/2023-6, no qual fui informado de que minha produção não foi considerada suficientemente produtiva para ser agraciado com a bolsa.
+Eu, Roney Fraga Souza, venho por meio deste documento apresentar recurso em relação ao resultado do edital de bolsas, referente à Chamada CNPq No 09/2023 Bolsas de Produtividade `315376/2023-6`, no qual fui informado de que minha produção não foi considerada suficientemente produtiva para ser agraciado com a bolsa.
 
 Primeiramente, gostaria de expressar meu agradecimento pela oportunidade de participar do processo seletivo e pela transparência demonstrada pela comissão ao fornecer os resultados. Contudo, após uma análise minuciosa dos critérios de avaliação e dos resultados apresentados, sinto a necessidade de apresentar informações adicionais que possam contribuir para uma reavaliação justa de minha candidatura.
 
@@ -13,16 +15,16 @@ Produção científica
 
 A produção científica do proponente se compara a produção dos bolsistas de produtividade mais produtivos. Para sustentar tal afirmação, os currículos Lattes dos 239 bolsistas de produtividade da área Economia foram analisados via código do software `R` e pacote `getLattes`, de autoria do proponente. O período de análise foi de 2021 a 2023.
 
-Quanto aos Artigos Publicados:
+- Quanto aos Artigos Publicados:
   - Qualis A1 a A4: o proponente está os 90% autores mais produtivos.
   - Web of Science: o proponente está 70% autores mais produtivos.
   - Scopus: o proponente está 60% autores mais produtivos.
   - Quantidade: o proponente está entre os 60% a 70% autores mais produtivos.
 
-Quanto aos Livros Publicados:
+- Quanto aos Livros Publicados:
   - Quantidade: o proponente entre os 90% autores mais produtivos.
 
-Quanto aos Pós-Graduação em Economia (via `StelaExperta`):
+- Quanto a Pós-Graduação em Economia (via `StelaExperta`):
   - o proponente obteve, na média, 211 pontos por ano entre 2021 e 2023, superior à média dos docentes dos programas de pós-graduação em economia, considerando todos os extratos, inclusive os programas Qualis 7.
 
 Orientações
@@ -35,11 +37,11 @@ A colaboração desenvolvida pelo proponente é expressa em coautorias de artigo
 
 Gestão científica
 
-O proponente:
-- foi editor da Revista de Estudos Socais entre 2016 e 2021, quando a revista saltou de Qualis B5 para A4;
-- participou com recursos próprios do XXV CEC 2017 na FMVZ-USP, organizado pela ABEC;
-- a visualização média dos artigos saltou de 30 para 700;
-- foi eleito representante dos editores científicos junto a UFMT.
+- O proponente: 
+  - foi editor da Revista de Estudos Socais entre 2016 e 2021, quando a revista saltou do Qualis B5 para A4;
+  - participou com recursos próprios do XXV CEC 2017 na FMVZ-USP, organizado pela ABEC;
+  - a visualização média dos artigos saltou de 30 para 700;
+  - foi eleito representante dos editores científicos junto a UFMT.
 
 Considerando expressivos números obtidos e o esforço hercúleo para gerenciar uma revista científica sem apoio institucional, julgo o segundo parecer Ad Hoc inadequado.
 
